@@ -1,5 +1,4 @@
 # Object-Detection-using-Yolo
-# Object-detection-using-web-camera
 
 ## Aim:
 To implement real-time object detection using a webcam and the YOLOv4 (You Only Look Once) model. The program captures frames from the webcam, detects objects in each frame using the YOLOv4 model, and displays the detected objects with bounding boxes and class labels.
@@ -16,8 +15,8 @@ To implement real-time object detection using a webcam and the YOLOv4 (You Only 
 8. Draw bounding boxes with labels and display; exit on 'q' key press.
 
 ## Developed BY:
-### Name: Dharini PV
-### Reg No: 212222240024
+### Name: KOUSALYA A.
+### Reg No: 212222230068
 
 ## Program:
 
@@ -111,7 +110,7 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 
-![Screenshot 2024-09-26 112802](https://github.com/user-attachments/assets/6dd85a76-b8c7-4dc9-90b9-ce76d2314875)
+
 
 ## Result:
 Thus to implement real-time object detection using a webcam and the YOLOv4 (You Only Look Once) model is successfully completed.
