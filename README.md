@@ -110,7 +110,7 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 
-
+![Screenshot 2024-09-26 112712](https://github.com/user-attachments/assets/5acc4265-364c-49f4-bf57-3f7a0dfeaa15)
 
 ## Result:
 Thus to implement real-time object detection using a webcam and the YOLOv4 (You Only Look Once) model is successfully completed.
